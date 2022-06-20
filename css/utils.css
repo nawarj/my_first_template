@@ -1,0 +1,23 @@
+.mg-b-0 {
+    margin-bottom: 0;
+}
+.mg-b-10 {
+    margin-bottom: 10px;
+}
+.mg-b-20 {
+    margin-bottom: 20px;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+.capitalize {
+    text-transform: capitalize;
+}
+
+.float-left {
+    float: left;
+}
+.overflow-hidden {
+    overflow: hidden;
+} 
